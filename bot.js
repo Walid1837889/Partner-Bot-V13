@@ -10,7 +10,7 @@ client.on('ready', async () => {
  client.user.setActivity(`Free Ads Send Your Link Server`, { type:'WATCHING' })
 });
 
-//ZEROCODES//https://discord.gg/RMEQSbMtEk//ZEROCODES//
+//Walid//https://discord.gg/rcrSJFEZEY////
 ////////
 
 client.on("messageCreate", (message) => {
@@ -73,7 +73,7 @@ if (message.content === "اعلان") {
 }
 
 });
-//ZEROCODES//https://discord.gg/RMEQSbMtEk//ZEROCODES//
+////https://discord.gg/rcrSJFEZEY////
 //////////////
 client.on("messageCreate", async message => {
   if (message.channel.type === "dm") return;
@@ -87,7 +87,7 @@ client.on("messageCreate", async message => {
   }
 });
 
-//ZEROCODES//https://discord.gg/RMEQSbMtEk//ZEROCODES//
+////https://discord.gg/rcrSJFEZEY////
 //////////////
 
 client.on('messageCreate',async (message) => {
@@ -111,7 +111,7 @@ client.on('messageCreate',async (message) => {
         await share.send({content: `${invite}\n **📨 Posted By** ${message.author}`});
         await message.channel.send({content : `
 > 📪 **Posted In ${share}**
-> 📮 **Post This Link in Your Server To** ${link}`}).catch(async (err) => {
+> 📮 **Post This Link in Your Server To** ${1026577539466014801}`}).catch(async (err) => {
             await message.channel.send({content : `> **${message.author} You Server Posted in ${share}**`});
         })
     }).catch(async (err) => {
@@ -121,7 +121,7 @@ client.on('messageCreate',async (message) => {
        return;
     }}
 })
-//ZEROCODES//https://discord.gg/RMEQSbMtEk//ZEROCODES//
+////https://discord.gg/rcrSJFEZEY////
 
 
 
@@ -146,6 +146,6 @@ console.log(err)
 });
 
 
-//https://discord.gg/RMEQSbMtEk//ZEROCODES//
+//https://https://discord.gg/rcrSJFEZEY////
 
-client.login(token)
+client.login()
