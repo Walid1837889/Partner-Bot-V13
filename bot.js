@@ -148,4 +148,4 @@ console.log(err)
 
 //https://discord.gg/RMEQSbMtEk//ZEROCODES//
 
-client.login(token)
+client.login(MTAyODQ1MDgwMTUzMTc1MjQ3OA.GTOSSL.lWxqkeFF2MnL2U00cAkdf8ITtN1Bz1isp5InbA)
